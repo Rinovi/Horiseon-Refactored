@@ -6,5 +6,5 @@ This was the first module challenge for the ASU coding bootcamp. The purpose of 
 
 ## Usage
 
-Although this version of the deployed website does not have much use, anyone who is new to coding, or just looking to brush up their skills, can clone the non-refactored code from this repo. https://github.com/coding-boot-camp/urban-octo-telegram
+Although this version of the deployed website does not have much use, anyone who is new to coding, or just looking to brush up their skills, can clone the source code from this repo. https://github.com/coding-boot-camp/urban-octo-telegram
 This will allow you to repeat the exercise and refactor the code just as we did in this module 1 challenge.
