@@ -2,7 +2,7 @@
 
 ## Description
 
-This was the first module challenge for the ASU coding bootcamp. The purpose of this challenge was to help solidify and familiarize students with what clean html semantic element code should look like. It did this by giving us a completed website with generic semantic element labels, and asking us to refactor the code.
+This was the first module challenge for the ASU coding bootcamp. The purpose of this challenge was to help solidify and familiarize students with what clean html semantic element code should look like. It did this by giving us a completed website with generic semantic element labels, and asking us to refactor the code. The website itself promotes Horiseon Social Sultion Services, an incorporation that can assist with things such as SEO, online reputation management, social media marketing, etc.
 
 ## Usage
 
