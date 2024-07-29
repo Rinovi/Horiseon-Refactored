@@ -1,4 +1,4 @@
-# Module Challenge 1
+# Horiseon Refactored
 
 ## Description
 
